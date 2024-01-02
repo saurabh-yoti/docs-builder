@@ -1,5 +1,6 @@
 ---
-title: Hello, World!
+title: 'Hello, World!'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam.'
 ---
 
 ## Lorem ipsum!
